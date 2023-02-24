@@ -1,4 +1,4 @@
-# easy_breathing Szenario for NAO Robot [v.1.0]
+# easy_breathing with NAO [v.1.0]
 *Attention: this project is only available in German!*<br>
 
 ### About
@@ -20,6 +20,8 @@ You will only need your NAO robot.
 ### Plans of further development:
 
 We currently have no plans to further develop the program.
+
+### Choregraphe screenshot:
 
 ---
 
