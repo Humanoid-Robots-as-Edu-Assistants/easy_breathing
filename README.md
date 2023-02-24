@@ -1,4 +1,4 @@
-# easy_breathing with NAO [v.1.0]
+# "Easy breathing" for NAO robot[v.1.0]
 *Attention: this project is only available in German!*<br>
 
 ### About
